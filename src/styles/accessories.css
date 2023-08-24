@@ -1,0 +1,17 @@
+.accessoriesmenu{
+    display: flex;
+    justify-content: center;
+}
+.accessorieslink{
+    text-decoration: none;
+    margin: 1vmax;
+    color: rgb(94,94, 94);
+    padding: 0.5vmax 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.accessorieslink:hover{
+    text-decoration: none;
+    color: orangered;
+    border-bottom: 1px solid orangered;
+}

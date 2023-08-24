@@ -1,0 +1,13 @@
+.videoscard{
+    width: 30vmax;
+    height: 48vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.videoscard p{
+    margin-top: 10px;
+    color: orangered;
+}
