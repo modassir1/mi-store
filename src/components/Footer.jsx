@@ -136,7 +136,7 @@ const Footer = ({ footer }) => {
 
 
             <div className="footerBorder">
-                <div>Copyright @ 2010 - 2021 Xiaomi. All Rights Reserved.</div>
+                <div>Copyright @ 2010 - 2021 Xiaomi. All Rights Reserved. modassir</div>
             </div>
         </>
     )
